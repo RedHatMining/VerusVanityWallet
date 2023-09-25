@@ -2,6 +2,7 @@
 
 ### Install Requirements
     pip install -r requirements.txt
+    
 ### How To Run The Code
     vanity_V2.py [-h] [-of OUTPUT_FILE] [--case_sensitive] [-t THREADS] [-f FORMAT] prefix_file
     Vanity Bitcoin address generator
