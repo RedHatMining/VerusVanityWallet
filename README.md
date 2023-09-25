@@ -1,5 +1,4 @@
 # Verus Vanity Wallet Miner
-#### *made by mrhakdev*
 
 ### Install Requirements
     pip install -r requirements.txt
