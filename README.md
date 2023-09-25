@@ -26,3 +26,5 @@
     3. for each of them you have put it on a line as an example i have added a list od DC characters in a file called DC.txt
     4. save your file and run the code
 
+### Donate
+    Verus: RFEMboyUM519KG66UhH6uf2MmoZ3u6zMfx
